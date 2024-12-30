@@ -34,5 +34,16 @@ ordered list
 unordered list
 - 순서없는 목차 1
 - 목차2
+      - 하위목차1
+      - 하위목차2
+
+  
 -     하위1
 -     하위2
+
+강조하고 싶은 한줄코드 `python`
+강조하고 싶은 여러줄 코드
+``` python
+name="허정원'
+age=30
+```
