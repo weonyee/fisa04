@@ -65,4 +65,4 @@ age=30
 [네이버](https://www.naver.com/)
 
 ## 이미지
-```![링크가 깨졌을 때 나올 안내메세지](https://i.imgur.com/pBXvso8.png)```
+![링크가 깨졌을 때 나올 안내메세지](https://i.imgur.com/pBXvso8.png)
