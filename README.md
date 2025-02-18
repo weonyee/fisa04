@@ -1,71 +1,35 @@
-"# fisa04" 
+# 학습 내용 정리
 
-new
+## 소개
 
-# 제일 큰 제목
-## 두번째 제목
-### 세번째 제목
-#### 네번째 제목
-##### 다섯번째 제목
-###### 여섯번째 제목
-일반 글자
+이 리포지토리는 우리 FISA AI엔지니어링 4기 과정 중 배운 내용을 그날 그날 정리한 것입니다. 학습한 주제에 대한 요약, 예제 코드, 그리고 중요한 개념들을 기록하여 나중에 다시 참고할 수 있도록 구성하였습니다.
 
-수평선
----
-<hr>
+## 학습한 기술 및 도구
 
-***
+### AI/ML
 
-**진하게**
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-~~취소~~
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+ 
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-***굵고 기울기***
+### Frameworks, platforms and libraries
 
-*그냥 기울기*
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-ordered list
-1. 목차
-    1. 하위목차
-    2. 하위목차
-2. 목차2
-3. 목차3
-4. 목차4
+### OS
 
-***
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ 
+### Databases
 
-unordered list
-- 순서없는 목차 1
-- 목차2
-     - 하위목차1
-     - 하위목차2
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Domain
 
-  
--     하위1
--     하위2
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 
-강조하고 싶은 한줄코드 `python`
-
-강조하고 싶은 여러줄 코드
-``` python
-name="허정원'
-age=30
-```
-
-***
-
-## 표 만들기
-
-|  name  |   gender  |
-|--------|----------|
-| 허정원 | 여성 |
-
-
-## 링크
-
-```[화면에 출력될 문자](링크)```
-[네이버](https://www.naver.com/)
-
-## 이미지
-![링크가 깨졌을 때 나올 안내메세지](https://i.imgur.com/pBXvso8.png)
+### Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
